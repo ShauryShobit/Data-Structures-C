@@ -1,3 +1,7 @@
+/*Orignally by Shaury Shobit aka Mr.tech*/
+/*This code is made using array data structures*/
+/*There is an issue with this code some times snake use cross the boundary itself without terminating and 1:1000 chances are there that your food may grow below*/
+/*obstacles if someone can rectify or resolve it please contact me on Linkedin - https://www.linkedin.com/in/shaury-shobit-2b6366194/detail/contact-info/*/
 /*all header files*/
 #include <time.h>
 #include <stdio.h>      //It has the information related to input/output functions.
