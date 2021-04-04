@@ -1,3 +1,5 @@
+//This Program is copyrighted by Mr.Tech_In 
+// Hi this is your one and only Shaury Shobit
 #include<stdio.h>
 
 int main()
